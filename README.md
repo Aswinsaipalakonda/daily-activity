@@ -1,3 +1,2 @@
 # daily-activity
 
-Daily 
