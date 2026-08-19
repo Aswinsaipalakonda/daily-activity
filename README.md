@@ -1,4 +1,1 @@
 # daily-activity
-
-today 
-
